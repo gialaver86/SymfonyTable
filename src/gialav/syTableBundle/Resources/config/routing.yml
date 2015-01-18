@@ -1,0 +1,3 @@
+gialavsy_table_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: gialavsyTableBundle:Default:index }

@@ -1,0 +1,7 @@
+parameters:
+#    gialavsy_table.example.class: gialav\syTableBundle\Example
+
+services:
+#    gialavsy_table.example:
+#        class: %gialavsy_table.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
